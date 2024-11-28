@@ -27,11 +27,13 @@ print(X)
 print("") 
 print(y)
 
+# find all ranges 
 for column_name in column_names:
     min_value = X[column_name].min()
     max_value = X[column_name].max()
     range_formatted = f"{min_value} to {max_value}"
     print(f"The range of the '{column_name}' column is: {range_formatted}\n")
 
+# find y range for good measure (0 through 4) as stated on data source
 print(y.min())
 print(y.max())
