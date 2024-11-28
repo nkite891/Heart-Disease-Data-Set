@@ -1,0 +1,27 @@
+The range of the 'age' column is: 29 to 77
+
+The range of the 'sex' column is: 0 to 1
+
+The range of the 'cp' column is: 1 to 4
+
+The range of the 'trestbps' column is: 94 to 200
+
+The range of the 'chol' column is: 126 to 564
+
+The range of the 'fbs' column is: 0 to 1
+
+The range of the 'restecg' column is: 0 to 2
+
+The range of the 'thalach' column is: 71 to 202
+
+The range of the 'exang' column is: 0 to 1
+
+The range of the 'oldpeak' column is: 0.0 to 6.2
+
+The range of the 'slope' column is: 1 to 3
+
+The range of the 'ca' column is: 0.0 to 3.0
+
+The range of the 'thal' column is: 3.0 to 7.0
+
+The range of diagnosis is from 0 (does not have HD) to 4 (most severe)
